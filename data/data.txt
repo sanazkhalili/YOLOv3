@@ -1,0 +1,12 @@
+Site : http://shuoyang1213.me/WIDERFACE/
+_________________________________________________________
+
+Get data in colab with 'wget':
+
+!wget https://data.deepai.org/widerface.zip
+_________________________________________________________
+
+For unzip data file :
+
+!unzip "/content/WIDER_test.zip"
+_________________________________________________________
