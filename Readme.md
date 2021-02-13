@@ -13,7 +13,7 @@
 
 <p dir="rtl">
 نگارنده: ساناز خليلي
-(sanaz.khalili@stu.vru.ac.ir)
+(khalili.sanaz94@gmail.com)
 </p>
 <p dir="rtl">
 اساتيد راهنما : آقای دکتر محمدرضا حيدريان (mrh@vru.ac.ir) - آقای دکتر علي شکيبا (ali.shakiba@vru.ac.ir)
